@@ -15,13 +15,6 @@ Run in Claude Code:
 /plugin install arvor-eleicoes --marketplace ArvorCo/arvor-eleicoes
 ```
 
-Alternatively, clone the repository and load it for one session:
-
-```sh
-git clone https://github.com/ArvorCo/arvor-eleicoes.git
-claude --plugin-dir ./arvor-eleicoes
-```
-
 Review the normal plugin and connection permissions when prompted. This plugin
 has no hooks, shell commands, API keys, or bundled election databases.
 
