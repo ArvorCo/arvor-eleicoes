@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "arvor-eleicoes": {
+      "type": "http",
+      "url": "https://arvor.co/api/eleicoes/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "arvor-eleicoes",
+  "description": "Arvor's read-only Brazilian election data plugin for Claude.",
+  "owner": { "name": "Arvor" },
+  "plugins": [
+    { "name": "arvor-eleicoes", "source": "./" }
+  ]
+}
